@@ -129,6 +129,11 @@ Marlin/Debug/
 Marlin/__vm/
 Marlin/.vs/
 
+# VIm
+*.swp
+*.swo
+*.swn
+
 #cmake
 CMakeLists.txt
 Marlin/CMakeLists.txt
