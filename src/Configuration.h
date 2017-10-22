@@ -481,9 +481,9 @@
   #define DELTA_DIAGONAL_ROD 228.0 // mm
 
   // height from z=0 to home position
-  #define DELTA_HEIGHT 283.80 // get this value from auto calibrate
+  #define DELTA_HEIGHT 283.90 // get this value from auto calibrate
 
-  #define DELTA_ENDSTOP_ADJ { 0.0, -0.8, -1.0 } // get these from auto calibrate
+  #define DELTA_ENDSTOP_ADJ { 0.0, -0.7, -0.9 } // get these from auto calibrate
 
   // Horizontal offset from middle of printer to smooth rod center.
   #define DELTA_SMOOTH_ROD_OFFSET 149 // mm
